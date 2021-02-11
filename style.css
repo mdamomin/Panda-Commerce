@@ -1,0 +1,80 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+.form-control {
+    border-radius: 20px;
+    width: 25em;
+    border: none;
+    background-color: #F8F8F8;
+    font-style: italic; 
+}
+.form-control::placeholder {
+    color: #CFCFCF;
+  }
+.container{
+    margin-bottom: 5em;
+}
+.carousel-inner{
+    background-color: #FEEAE9;
+    border-radius: 5px;
+    padding: 32px 0px;
+}
+.banner_text {
+    padding: 0px 100px;
+}
+.banner_text h2{
+    color: #FF136F;
+}
+.btn-danger{
+    background-color: #FF1F76;
+    border-color: #FF1F76;
+}
+.cat-items{
+   
+}
+.cat_item_1,.cat_item_2,.cat_item_3{
+    border-radius: 10px;
+}
+.cat_item_1{
+    background-image: linear-gradient(to right, #FF9E34, #FFD019);
+    
+}
+.cat_item_2{
+    background-image: linear-gradient(to right, #FF2F80, #FF3A88);
+    
+}
+.cat_item_3{
+    background-image: linear-gradient(to right, #416EFD, #3F13F8);
+    
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 22px;
+}
+.shoes_section p{
+    padding: 0px 50px;
+}
+.card img{
+    padding: 0px 39px;
+}
+.card{
+    border-radius: 10px;
+}
+.shoes{
+    background-color: #F8F8F8;
+    padding: 15px 0px 1px 0px;
+}
+.footer_element{
+    background-color: #FEEAE9;
+    padding: 4em 0em;
+    margin-top: 4em;
+    border-radius: 10px;
+}
+#email {
+    border: none;
+    padding: 5px 60px 5px 12px;
+}
+
